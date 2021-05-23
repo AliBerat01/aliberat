@@ -3,6 +3,7 @@
 Yaşım: 15
 DC: AliBerat#4125
 Çalıştığım Sunucu: Botclub - [Botclub.net](https://botclub.net/)
+
 Yetkilerim: ( @BanHammer - @Admin - @Moderatör - @DestekEkibi - @KodPaylaşımcı )
 
 # Bildiğim kodlama bilgilerim
