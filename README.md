@@ -1,9 +1,8 @@
 # Bilgilerim
-İsimim: AliBerat
-Yaşım: 15
-DC: AliBerat#4125
-Çalıştığım Sunucu: Botclub - [Botclub.net](https://botclub.net/)
-
+İsimim: AliBerat                                                                                                                                                                    
+Yaşım: 15                                                                                                                                                                    
+DC: AliBerat#4125                                                                                                                                                                    
+Çalıştığım Sunucu: Botclub - [Botclub.net](https://botclub.net/)                                                                                                                                                                    
 Yetkilerim: ( @BanHammer - @Admin - @Moderatör - @DestekEkibi - @KodPaylaşımcı )
 
 # Bildiğim kodlama bilgilerim
@@ -14,8 +13,6 @@ Discord'a `22.06.2017` tarihinde katıldım ve ilk yapmaya çalıştığım şey
 Bütün **BOT DEVELOPER**'larına bot nasıl yapılıyor diye soruyordum ve sonunda birisini buldum ve oda bana hepsini öğretti sağolsun.
 
 # Botlarım
-İlk botlarım: Donem1(Register) - Donem2(Guard) - Donem3(Fun)
-
-Dızladığım botlarım: Fays(Register | Turkhis | Fun | Moderation | Leveling | Guard)
-
+İlk botlarım: Donem1(Register) - Donem2(Guard) - Donem3(Fun)                                                                                                                                                                    
+Dızladığım botlarım: Fays(Register | Turkhis | Fun | Moderation | Leveling | Guard)                                                                                                                                                                    
 Kendi yazdığım botlarım: MC-KING(10-20) - LORD(30-40) - YOUTUBERS(60-70) - Alvi(100-190)
