@@ -14,5 +14,7 @@ Bütün **BOT DEVELOPER**'larına bot nasıl yapılıyor diye soruyordum ve sonu
 
 # Botlarım
 İlk botlarım: Donem1(Register) - Donem2(Guard) - Donem3(Fun)
+
 Dızladığım botlarım: Fays(Register | Turkhis | Fun | Moderation | Leveling | Guard)
+
 Kendi yazdığım botlarım: MC-KING(10-20) - LORD(30-40) - YOUTUBERS(60-70) - Alvi(100-190)
