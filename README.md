@@ -3,7 +3,7 @@
 Yaşım: 16                                                                                                                                                                
 DC: AliBerat#6892                                                                                                                                                                    
 Çalıştığım Sunucu: [MaximusBoys #Club](https://discord.gg/m2Ms6WtGVD) - [MaximusCode](https://maximuscode.xyz/)                                                                                                                                                                    
-Yetkilerim: ( @Yardımcı Şef - @Admin - @Kıdemli Yetkili - @Moderatör )
+Yetkilerim: (@ Emojileri Yönet - @Jail Görevli - @Uyarı - @Yönetim Ekibi - @Sunucu Sorumlusu -  @Şef Yetkili - @Yardımcı Şef - @Admin - @Kıdemli Yetkili - @Moderatör )
 
 # MaximusBoys #Club | HAKKINDA
 
