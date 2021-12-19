@@ -3,7 +3,7 @@
 Yaşım: 16                                                                                                                                                                
 DC: AliBerat#6892                                                                                                                                                                    
 Çalıştığım Sunucu: [MaximusBoys #Club](https://discord.gg/m2Ms6WtGVD) - [MaximusCode](https://maximuscode.xyz/)                                                                                                                                                                    
-Yetkilerim: (@ Emojileri Yönet - @Jail Görevli - @Uyarı - @Yönetim Ekibi - @Sunucu Sorumlusu -  @Şef Yetkili - @Yardımcı Şef - @Admin - @Kıdemli Yetkili - @Moderatör )
+Yetkilerim: (@SunucuBilgileri - @Emojileri Yönet - @Jail Görevli - @Uyarı - @Yönetim Ekibi - @Sunucu Sorumlusu -  @Şef Yetkili - @Yardımcı Şef - @Admin - @Kıdemli Yetkili - @Yetkili )
 
 # MaximusBoys #Club | HAKKINDA
 
@@ -20,4 +20,4 @@ Bütün **BOT DEVELOPER**'larına bot nasıl yapılıyor diye soruyordum ve sonu
 # Botlarım
 İlk botlarım: Donem1(Register) - Donem2(Guard) - Donem3(Fun)                                                                                                                                                                    
 Dızladığım botlarım: Fays(Register | Turkhis | Fun | Moderation | Leveling | Guard (SUPERVIZOR))                                                                                                                                                                   
-Kendi yazdığım botlarım: MC-KING(10-20 Komut) - LORD(30-40 Komut) - YOUTUBERS(60-70 Komut) - Alvi(100-190 Komut) - Wronzy Guard(YAKINDA!)
+Kendi yazdığım botlarım: MC-KING(10-20 Komut) - LORD(30-40 Komut) - YOUTUBERS(60-70 Komut) - Lexion(50-120 Komut) - SeySie(120-180 Komut) - Alvi(100-300 Komut) - Wronzy Guard(YAKINDA!)
