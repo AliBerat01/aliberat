@@ -10,6 +10,9 @@ Yetkilerim: (@SunucuBilgileri - @Emojileri Yönet - @Jail Görevli - @Uyarı - @
 Kaliteli bir sunucu. Yetki atlamak bile eğlenceli çünkü coin ile atlıyorsunuz yetkiyi buna kısaca **terfi sistemi && coin sistemi** deniyor. Kurucusu olan `Asreaper#0001`
 çok güzel videolarıda var.
 
+# LaxiyusBros # Club | Hakkında
+Kaliteli bir sunucu. Yetki atlamak bile eğlencelei çünkü coin ile atlıyorsunuz yetkiyi buna kısaca **terfi sistemi && coin sistemi** deniyor. Kurucusu olan `AliBerat#6892` çok iyi kodlama biliyor. Ortak olanlar `AliBerat#6892` > `RestVevo#6219` > `¹⁰² のĞひ乙#0102`
+
 # Bildiğim kodlama bilgilerim
 Node.JS (%99-100) | Discord.JS (%98-100) | HTML (%7-100)
 
