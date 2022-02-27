@@ -1,17 +1,8 @@
 # Bilgilerim
 İsimim: AliBerat                                                                                                                                                                    
 Yaşım: 16                                                                                                                                                                
-DC: AliBerat#6892                                                                                                                                                                    
-Çalıştığım Sunucu: [MaximusBoys #Club](https://discord.gg/m2Ms6WtGVD) - [MaximusCode](https://maximuscode.xyz/)                                                                                                                                                                    
-Yetkilerim: (@SunucuBilgileri - @Emojileri Yönet - @Jail Görevli - @Uyarı - @Yönetim Ekibi - @Sunucu Sorumlusu -  @Şef Yetkili - @Yardımcı Şef - @Admin - @Kıdemli Yetkili - @Yetkili )
-
-# MaximusBoys #Club | HAKKINDA
-
-Kaliteli bir sunucu. Yetki atlamak bile eğlenceli çünkü coin ile atlıyorsunuz yetkiyi buna kısaca **terfi sistemi && coin sistemi** deniyor. Kurucusu olan `Asreaper#0001`
-çok güzel videolarıda var.
-
-# LaxiyusBros #Club | HAKKINDA
-Kaliteli bir sunucu. Yetki atlamak bile eğlenceli çünkü coin ile atlıyorsunuz yetkiyi buna kısaca **terfi sistemi && coin sistemi** deniyor. Kurucusu olan `AliBerat#6892` çok iyi kodlama biliyor. Ortak olanlar `AliBerat#6892` > `RestVevo#6219` > `¹⁰² のĞひ乙#0102`
+DC: AliBerat#6892                                                                                                                                                                   
+Discord Sunucularım: [Night Rewards](https://discord.gg/VJ8JhVaT97) / [Night Code](https://discord.gg/UbUx4NsSex)
 
 # Bildiğim kodlama bilgilerim
 Node.JS (%99-100) | Discord.JS (%98-100) | HTML (%7-100)
