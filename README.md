@@ -9,4 +9,4 @@ Discord Sunucularım: ŞUAN YOK!
 Node.JS (%99-100) | Discord.JS (%98-100) | HTML (%9-100)
 
 # Discord Bilgi
-Discord'a `22.06.2017` tarihinde katıldım.
+Discord'a `05.12.2015` tarihinde katıldım.
