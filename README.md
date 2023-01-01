@@ -1,5 +1,5 @@
 # Bilgilerim
-İsimim: AliBerat                                                                                                                                                         
+İsmim: AliBerat                                                                                                                                                         
 Yaşım: 17                                                                                                                                                                
 DC: AliBerat#6892                                                                                                                                                                   
 # Discord Sunucularım
